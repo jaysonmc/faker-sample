@@ -1,0 +1,82 @@
+[
+  {
+    userId: '2b93658b-d199-45bc-a1aa-e1a192918da1',
+    firstName: 'Bernardo',
+    lastName: 'Jacobi',
+    email: 'Shaniya_Haley@yahoo.com',
+    birthdate: 1956-08-25T07:13:25.330Z,
+    sin: '229-940-952'
+  },
+  {
+    userId: '36367cf3-9e91-4f62-953c-7638d3722642',
+    firstName: 'Kirk',
+    lastName: 'Ankunding',
+    email: 'Elsie15@yahoo.com',
+    birthdate: 1971-05-23T18:32:18.934Z,
+    sin: '785-341-906'
+  },
+  {
+    userId: 'f8eba35e-e64e-4514-a0cf-f7ba6d4e2369',
+    firstName: 'Jettie',
+    lastName: 'Wyman',
+    email: 'Aaliyah.Goldner64@hotmail.com',
+    birthdate: 1966-06-04T18:02:31.713Z,
+    sin: '309-721-345'
+  },
+  {
+    userId: '48f8b79c-b20e-4205-b00b-ca4e63404366',
+    firstName: 'Hannah',
+    lastName: 'Satterfield',
+    email: 'Ben_Cole53@gmail.com',
+    birthdate: 1989-12-25T15:39:25.305Z,
+    sin: '648-404-324'
+  },
+  {
+    userId: 'de1e902e-0776-4a2f-9462-e5e658bcecbe',
+    firstName: "D'angelo",
+    lastName: 'Conn',
+    email: 'Verner69@yahoo.com',
+    birthdate: 1947-01-22T07:06:06.231Z,
+    sin: '461-663-778'
+  },
+  {
+    userId: '1f9d8903-da88-4c77-9de4-5f730a7af4fe',
+    firstName: 'Heath',
+    lastName: 'Kemmer',
+    email: 'Freeda4@gmail.com',
+    birthdate: 2002-05-14T09:11:31.765Z,
+    sin: '878-614-967'
+  },
+  {
+    userId: 'cc0cc82a-3605-46d2-b4b0-d95e74ce5c1d',
+    firstName: 'Hester',
+    lastName: 'Konopelski',
+    email: 'Brittany_Mraz74@hotmail.com',
+    birthdate: 1948-05-12T09:13:42.666Z,
+    sin: '671-859-541'
+  },
+  {
+    userId: '9605b126-b615-4ad7-bcf0-73977b13e162',
+    firstName: 'Abelardo',
+    lastName: 'Reichert',
+    email: 'Breanne.Gutkowski26@hotmail.com',
+    birthdate: 1974-01-10T15:56:10.605Z,
+    sin: '869-637-312'
+  },
+  {
+    userId: '439be258-e571-4825-a70a-5346495dc8b0',
+    firstName: 'Alf',
+    lastName: 'Powlowski',
+    email: 'Nayeli64@hotmail.com',
+    birthdate: 1951-01-21T05:13:20.146Z,
+    sin: '649-298-336'
+  },
+  {
+    userId: '4e479510-1491-4054-bef5-1e71f5998466',
+    firstName: 'Colten',
+    lastName: 'Kohler-Runte',
+    email: 'Shaun53@yahoo.com',
+    birthdate: 1990-07-31T04:21:28.963Z,
+    sin: '849-578-784'
+  }
+]
